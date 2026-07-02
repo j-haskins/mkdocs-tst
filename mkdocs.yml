@@ -1,10 +1,1 @@
-site_name: Docs
-theme:
-  name: material
-  palette:
-    scheme: slate #darkmode
-    primary: teal
-    accent: deep orange
-
-repo_name: "mkdocs-tst"
-repo_url: "https://github.com/j-haskins/mkdocs-tst"
+site_name: My Docs
